@@ -8,7 +8,7 @@ Seguintes conceitos em prática:
 - Utilizar tags HTML (básicas);
 - Estilizar uma página com CSS.
 
-Não abordarei a parte responsiva do CSS (adaptação para telas de celular) para facilitar o 
+Não foi abordado a parte responsiva do CSS (adaptação para telas de celular) para facilitar o 
 processo de aprendizado/prática.
 
 Não há navegação entre páginas do projeto, pois o intuito é exibir as informações de um 
