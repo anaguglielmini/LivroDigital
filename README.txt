@@ -1,4 +1,4 @@
-Projeto da terceira missão do curso Carreira Front-End pela plataforma DevMedia.
+3º missão - DevMedia Carreira Programador Front-End
 
 A proposta desse projeto é criar uma página web utilizando as tecnologias HTML e CSS. 
 Teremos apenas uma única página que conterá informações sobre um determinado produto.
